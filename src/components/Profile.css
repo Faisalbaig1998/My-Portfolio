@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Smooch&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Itim&family=Smooch&display=swap");
+
+#name-tag {
+  font-size: 30px;
+  color: blue;
+  font-family: "Itim", cursive;
+  /* transform: scale(var(--circle-scale, 1)); Use CSS variable for scaling */
+  transition: transform 0.3s ease; /* Smooth transition for scaling */
+  text-align: center;
+}
+
+#short-desc {
+  /* border: 1px solid black; */
+  text-align: center;
+}
