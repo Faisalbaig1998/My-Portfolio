@@ -5,5 +5,12 @@
 }
 
 body {
-  border: 2px solid red;
+  /* border: 2px solid red; */
+}
+
+#root {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
